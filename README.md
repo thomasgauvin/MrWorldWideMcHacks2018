@@ -6,5 +6,5 @@ This is a project that was built over the course of 24 hours at McHacks 2018 bui
 To see the original post on devpost: https://devpost.com/software/mr-worldwide
 
 ![mrworldwidechatbot1](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/598/906/datas/gallery.jpg)
-![mrworldwidechatbot1](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/598/907/datas/gallery.jpg)
 ![mrworldwidechatbot1](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/598/909/datas/gallery.jpg)
+![mrworldwidechatbot1](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/598/907/datas/gallery.jpg)
